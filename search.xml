@@ -3,7 +3,7 @@
   <entry>
     <title>Arduino nanoでLチカ</title>
     <url>/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/</url>
-    <content><![CDATA[<p>今回初めてArduino nanoを買ったので、いろんな工作をやっていこうと思います。</p>
+    <content><![CDATA[<h2 id="初めに"><a href="#初めに" class="headerlink" title="初めに"></a>初めに</h2><p>今回初めてArduino nanoを買ったので、いろんな工作をやっていこうと思います。</p>
 <p>まず始めは本体についているLEDを点滅させていこうと思います！</p>
 <h2 id="やり方"><a href="#やり方" class="headerlink" title="やり方"></a>やり方</h2><p>まず、Arduino IEDを開いてArduinoを接続します。次に[ファイル]→[スケッチの例]→[01.Basics]→[Blink]の順番で開きます。</p>
 <img src="/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/L%E3%83%81%E3%82%AB.png" class="" title="alt">
@@ -12,6 +12,17 @@
 <img src="/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/L%E3%83%81%E3%82%AB%EF%BC%92.png" class="" title="alt">
 
 <p>これで完了です！</p>
+]]></content>
+      <tags>
+        <tag>Arduino</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Arduinoでスマートホーム１</title>
+    <url>/2020/08/02/Arduino%E3%81%A7%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%EF%BC%91/</url>
+    <content><![CDATA[<h2 id="初めに"><a href="#初めに" class="headerlink" title="初めに"></a>初めに</h2><p>最近<strong>Alexa</strong>や<strong>Google Home</strong>などを使いスマートホームにすることが、流行っています。なので自分の家もスマートホームにしたいと思いました。</p>
+<h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>Arduinoで赤外線を飛ばして家電を操作しようと思います。</p>
+<h2 id="作成まで"><a href="#作成まで" class="headerlink" title="作成まで"></a>作成まで</h2><p>私は赤外線でどのようにして家電を動かしているか知らなかったのでまずは調べてみる事にしました。<br>調べてみると、</p>
 ]]></content>
       <tags>
         <tag>Arduino</tag>
