@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Arduino nanoでLチカ</title>
+    <url>/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/</url>
+    <content><![CDATA[<p>今回初めてArduino nanoを買ったので、いろんな工作をやっていこうと思います。</p>
+<p>まず始めは本体についているLEDを点滅させていこうと思います！</p>
+<h2 id="やり方"><a href="#やり方" class="headerlink" title="やり方"></a>やり方</h2><p>まず、Arduino IEDを開いてArduinoを接続します。次に[ファイル]→[スケッチの例]→[01.Basics]→[Blink]の順番で開きます。</p>
+<img src="/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/L%E3%83%81%E3%82%AB.png" class="" title="alt">
+
+<p>そして、チェックボタンをクリックしてから➡ボタンを押します。</p>
+<img src="/2020/08/01/Arduino%20nano%E3%81%A7L%E3%83%81%E3%82%AB/L%E3%83%81%E3%82%AB%EF%BC%92.png" class="" title="alt">
+
+<p>これで完了です！</p>
+]]></content>
+      <tags>
+        <tag>Arduino</tag>
+      </tags>
+  </entry>
+</search>
