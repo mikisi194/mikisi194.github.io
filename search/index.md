@@ -1,0 +1,5 @@
+---
+title: search
+date: 2020-08-01 00:00:00
+type: "search"
+---
